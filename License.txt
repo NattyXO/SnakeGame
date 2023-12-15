@@ -1,0 +1,9 @@
+/******************************************************************************
+* This code is created by NattyXO.
+* You can find the full source code, explanation, and documentation
+* on my GitHub repository at: https://github.com/NattyXO
+* Feel free to use and modify this code for personal and educational purposes.
+* Attribution to the original author is appreciated.
+* However, please refrain from using this for commercial purposes without
+* explicit permission from the author.
+******************************************************************************/
